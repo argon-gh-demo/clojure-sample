@@ -1,2 +1,0 @@
-{:suppression-file ".github/dogfooding_suppressions.xml"
- :analyzer {:ossindex-warn-only-on-remote-errors true}}
